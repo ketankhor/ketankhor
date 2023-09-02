@@ -5,6 +5,7 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ketankhor&label=Profile%20views&color=0e75b6&style=flat" alt="ketankhor" /> </p>
 
+### :man_technologist: About Me :
 - 🌱 I’m currently learning **DSA, Python**
 
 - 💬 Ask me about **java, html, css**
