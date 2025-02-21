@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ketankhor&label=Profile%20views&color=0e75b6&style=flat" alt="ketankhor" /> </p>
 
 ### :man_technologist: About Me :
-- 🌱 I’m currently learning **DSA, Python**
+- 🌱 I’m currently learning **DSA, React.js**
 
-- 💬 Ask me about **java, html, css**
+- 💬 Ask me about **java, html, css, python**
 
 - 📫 How to reach me **khorketan@gmail.com**
 
